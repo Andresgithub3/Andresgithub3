@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am working on finishing my Software Engineering Diploma from Brain Station<br>So far, I have developed web applications using React, JavaScript, HTML, SASS, Next.JS, MySQL<br>The applications I have developed are in my repos and showcase the depth of my knowledge <br>I also manage a small Digital Marketing agency, but with this new training, I am aiming for more application development work<br>My projects include: photo gallery app called Snaps, a site for a band to showcase their music called BandSite, and Ecommerce site using Shopify's API, and an investment laddering tool
+I am working on finishing my Software Engineering Diploma from Brain Station<br>So far, I have developed web applications using React, JavaScript, HTML, SASS, Next.JS, MySQL<br>The applications I have developed are in my repos and showcase the depth of my knowledge <br>I also manage a small Digital Marketing agency, but with this new training, I am aiming for more application development work<br>My projects include: photo gallery app called Snaps, a site for a band to showcase their music called BandSite, an Ecommerce site using Shopify's API, an investment laddering tool, and my capstone project called PLACED which is a full-cycle recruitment CRM. 
 
 
 ## 🌐 Socials:
